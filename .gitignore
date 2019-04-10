@@ -17,6 +17,7 @@
 *.iml
 *.ipr
 *.jar
+.mvn
 /target
 
 ### NetBeans ###
