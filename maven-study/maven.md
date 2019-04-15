@@ -21,4 +21,7 @@ maven 是 一个 约定大于配置的一个脚手架，具有自动管理jar包
  lifecycle/phases/goals
  打包命名 前面的phases 都执行
  
- 
+ 8.自定义插件
+ 1.继承abstractMojo   maven打包方式  maven-plugin
+ 2.打包jar  mvn clean install
+ 3.引用jar  绑定到phases  
