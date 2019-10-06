@@ -4,6 +4,13 @@ EXCEL 技能
 查询
 grep -C 20 'EJIPVRLE' ai-call-ope-web.log
 
+linux安装ftp文档：
+https://help.aliyun.com/document_detail/92048.html
+安装mysql文档：
+https://help.aliyun.com/document_detail/116727.html
+安装docker并部署web项目
+http://www.imooc.com/article/282731  
+
 
 netty:
 理解了这4个概念之后就对Netty5的线程模型有了清楚的认识：
