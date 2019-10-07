@@ -11,8 +11,8 @@ https://help.aliyun.com/document_detail/116727.html
 安装docker并部署web项目
 http://www.imooc.com/article/282731
 https://blog.csdn.net/weixin_41618475/article/details/85325611  
-
-
+//安装https
+https://blog.csdn.net/weixin_42054155/article/details/100637745
 netty:
 理解了这4个概念之后就对Netty5的线程模型有了清楚的认识：
 
