@@ -13,6 +13,10 @@ http://www.imooc.com/article/282731
 https://blog.csdn.net/weixin_41618475/article/details/85325611  
 //安装https
 https://blog.csdn.net/weixin_42054155/article/details/100637745
+
+
+一个tomcat服务器上部署多个项目，不同域名访问
+https://blog.csdn.net/u012149181/article/details/80658332
 netty:
 理解了这4个概念之后就对Netty5的线程模型有了清楚的认识：
 
