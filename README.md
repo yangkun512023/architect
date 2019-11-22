@@ -17,6 +17,9 @@ https://blog.csdn.net/weixin_42054155/article/details/100637745
 
 一个tomcat服务器上部署多个项目，不同域名访问
 https://blog.csdn.net/u012149181/article/details/80658332
+
+Jrebel激活
+https://blog.csdn.net/qq_41933149/article/details/100815529
 SecureCRT 8.1.4 破解教程
 https://www.jianshu.com/p/2bfd1fbf31bc
 netty:
