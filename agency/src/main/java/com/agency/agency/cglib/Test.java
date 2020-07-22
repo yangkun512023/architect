@@ -13,7 +13,7 @@ import java.util.Objects;
 public class Test {
     public static void main(String[] args) {
 //        CgProxy cgProxy=new CgProxy();
-//        Enhancer enhancer=new Enhancer();
+        Enhancer enhancer=new Enhancer();
 //       enhancer.setSuperclass(Xiaoming.class);
 //       enhancer.setCallback(cgProxy);
 //       Xiaoming xiaoming=(Xiaoming) enhancer.create();
