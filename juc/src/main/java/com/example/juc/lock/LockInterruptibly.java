@@ -16,7 +16,8 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 public class LockInterruptibly  implements Runnable  {
     public static void main(String[] args) throws InterruptedException {
         Thread thread=new Thread(new LockInterruptibly());
-        thread.start();
+        thread.wait();
+        ExecutorService executorService=Executors.newFixedThreadPool(4);
     }
 
     @Override
