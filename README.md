@@ -1,6 +1,9 @@
 本人从码农到架构师之学习之路！
 EXCEL 技能
 =CONCATENATE("UPDATE shop_remarket_clue_main a SET clue_status='follow',update_time= '",TEXT(H2,"yyyy-mm-dd"),"',distribute_time= '",TEXT(H2,"yyyy-mm-dd"),"' WHERE a.phone = '",C2,"';")
+
+A/B列对比，A列中的数据B列没有的
+=IF(COUNTIF(B:B,A1)>0,"B列有","B列没有")
 查询
 grep -C 20 'EJIPVRLE' ai-call-ope-web.log
 
